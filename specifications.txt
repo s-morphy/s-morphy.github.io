@@ -1,0 +1,23 @@
+HTML Tags
+<h1>
+<div>
+<br>
+<a>
+<nav>
+
+
+
+
+
+
+CSS
+.header // creates flexbox for website header
+.navbox // creates flexbox
+.navlink // adjusts color of nav links
+.content // flexbox for main content
+.footer // creates flexbox for main website footer
+
+Bootstrap
+Used bootstrap for Navivation bar
+
+JS
