@@ -12,8 +12,7 @@
 }
 
 .nav-link {
-
-    color: black;
+    color: rgb(241, 99, 99);
 }
 
 .nav-link a:hover {
@@ -25,8 +24,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: black;
-    height: auto;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
     color: white;
 }
 
