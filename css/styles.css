@@ -16,6 +16,10 @@
     color: black;
 }
 
+.nav-link a {
+    color: blanchedalmond;
+}
+
 .content {
     display: flex;
     flex-direction: column;
