@@ -5,28 +5,28 @@
     line-height: 1%;
 }
 
-.navbox {
-    display: flex;
-    flex-direction: column;
-    height: 50px;
-}
-
-.nav-link {
-    color: rgb(241, 99, 99);
-}
-
-.nav-link a:hover {
-    color: blanchedalmond;
-}
-
 .content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     background-color: rgb(255, 255, 255);
     height: 500px;
-    color: white;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.content a  {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    
+}
+
+.content a:hover {
+    color: rgb(255, 255, 255);
 }
 
 .footer {
